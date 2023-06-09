@@ -1,0 +1,2 @@
+//iniciando
+npm init -y

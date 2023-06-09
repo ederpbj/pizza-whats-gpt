@@ -1,6 +1,0 @@
-2023/06/08-14:20:32.397 1818 Creating DB C:\Users\ederp\OneDrive\Documentos\DEV\Node\pizza-gpt\tokens\pizza-gpt\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2023/06/08-14:20:32.422 1818 Reusing MANIFEST C:\Users\ederp\OneDrive\Documentos\DEV\Node\pizza-gpt\tokens\pizza-gpt\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/08-14:20:33.816 1ef8 Level-0 table #5: started
-2023/06/08-14:20:33.825 1ef8 Level-0 table #5: 8808 bytes OK
-2023/06/08-14:20:33.840 1ef8 Delete type=0 #3
-2023/06/08-14:20:33.846 1ef8 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
